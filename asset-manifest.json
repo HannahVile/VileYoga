@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vileyoga/static/css/main.9e7c1784.css",
-    "main.js": "/vileyoga/static/js/main.3c0bf4e4.js",
-    "static/js/453.2d30c913.chunk.js": "/vileyoga/static/js/453.2d30c913.chunk.js",
-    "index.html": "/vileyoga/index.html",
-    "main.9e7c1784.css.map": "/vileyoga/static/css/main.9e7c1784.css.map",
-    "main.3c0bf4e4.js.map": "/vileyoga/static/js/main.3c0bf4e4.js.map",
-    "453.2d30c913.chunk.js.map": "/vileyoga/static/js/453.2d30c913.chunk.js.map"
+    "main.css": "/static/css/main.9e7c1784.css",
+    "main.js": "/static/js/main.22b4244a.js",
+    "static/js/453.2d30c913.chunk.js": "/static/js/453.2d30c913.chunk.js",
+    "index.html": "/index.html",
+    "main.9e7c1784.css.map": "/static/css/main.9e7c1784.css.map",
+    "main.22b4244a.js.map": "/static/js/main.22b4244a.js.map",
+    "453.2d30c913.chunk.js.map": "/static/js/453.2d30c913.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e7c1784.css",
-    "static/js/main.3c0bf4e4.js"
+    "static/js/main.22b4244a.js"
   ]
 }
